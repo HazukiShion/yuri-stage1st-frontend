@@ -39,60 +39,60 @@
 *描述作品本身信息的实体。*
 ```json
 {
-  "id": Number,
+  "id": "Number",
   "title": {
-    "primary": String,
-    "chinese": String,
-    "aliases": [String]
+    "primary": "String",
+    "chinese": "String",
+    "aliases": ["String"]
   },
   "images": {
-    "poster": String,
-    "banner": String,
-    "logo": String
+    "poster": "String",
+    "banner": "String",
+    "logo": "String"
   },
   "type": {
-    "main": String,
-    "sub": String
+    "main": "String",
+    "sub": "String"
   },
-  "status": String,
+  "status": "String",
   "period": {
-    "start": String,
-    "end": String
+    "start": "String",
+    "end": "String"
   },
-  "synopsis": String,
+  "synopsis": "String",
   "counts": {
-    "episodes": Number,
-    "volumes": Number,
-    "chapters": Number
+    "episodes": "Number",
+    "volumes": "Number",
+    "chapters": "Number"
   },
-  "tags": [String],
+  "tags": ["String"],
   "staff": [
     {
-      "role": String,
-      "name": String
+      "role": "String",
+      "name": "String"
     }
   ],
   "characters": [
     {
-      "characterId": Number,
-      "name": String,
-      "role_in_work": String
+      "characterId": "Number",
+      "name": "String",
+      "role_in_work": "String"
     }
   ],
   "relations": [
     {
-      "relationType": String,
-      "workId": Number
+      "relationType": "String",
+      "workId": "Number"
     }
   ],
   "yuri_details": {
-    "level": String,
-    "concentration": Number
+    "level": "String",
+    "concentration": "Number"
   },
   "links": {
-    "official_site": String,
-    "aniList": String,
-    "bangumi": String
+    "official_site": "String",
+    "aniList": "String",
+    "bangumi": "String"
   }
 }
 ```
@@ -101,22 +101,22 @@
 *描述角色自身信息的独立实体。*
 ```json
 {
-  "id": Number,
+  "id": "Number",
   "name": {
-    "primary": String,
-    "chinese": String,
-    "aliases": [String]
+    "primary": "String",
+    "chinese": "String",
+    "aliases": ["String"]
   },
-  "image": String,
-  "description": String,
+  "image": "String",
+  "description": "String",
   "attributes": {
-    "birthday": String,
-    "height": String
+    "birthday": "String",
+    "height": "String"
   },
   "staff": [
     {
-      "role": String,
-      "name": String
+      "role": "String",
+      "name": "String"
     }
   ]
 }
@@ -126,11 +126,11 @@
 *描述两个角色之间关系信息的连接实体。*
 ```json
 {
-  "id": Number,
-  "source_character_id": Number,
-  "target_character_id": Number,
-  "relation_type": String,
-  "context": String
+  "id": "Number",
+  "source_character_id": "Number",
+  "target_character_id": "Number",
+  "relation_type": "String",
+  "context": "String"
 }
 ```
 
