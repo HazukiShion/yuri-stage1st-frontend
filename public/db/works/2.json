@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "title": {
+    "primary": "やがて君になる",
+    "chinese": "终将成为你",
+    "aliases": ["原作漫画"]
+  },
+  "images": {
+    "poster": "/images/yagakimi_manga_poster.jpg",
+    "banner": null,
+    "logo": null
+  },
+  "type": { "main": "MANGA", "sub": "COMIC" }
+}

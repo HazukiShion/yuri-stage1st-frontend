@@ -1,0 +1,12 @@
+{
+  "id": 102,
+  "name": {
+    "primary": "七海燈子",
+    "chinese": "七海灯子",
+    "aliases": ["Touko"]
+  },
+  "image": "/images/touko_avatar.jpg",
+  "description": "远见东高中的二年级学生，才貌双全的学生会长。因过于完美而无法喜欢上任何人。",
+  "attributes": { "birthday": "2月19日", "height": "165cm" },
+  "staff": [{ "role": "声优", "name": "寿美菜子" }]
+}

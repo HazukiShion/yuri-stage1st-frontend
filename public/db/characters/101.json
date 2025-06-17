@@ -1,0 +1,8 @@
+{
+  "id": 101,
+  "name": { "primary": "小糸侑", "chinese": "小糸侑", "aliases": ["Yuu"] },
+  "image": "/images/yuu_avatar.jpg",
+  "description": "远见东高中的一年级学生，对恋爱没有实感，在学生会中邂逅了七海灯子。",
+  "attributes": { "birthday": "4月5日", "height": "153cm" },
+  "staff": [ { "role": "声优", "name": "高田憂希" } ]
+}

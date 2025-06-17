@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "title": { "primary": "やがて君になる", "chinese": "终将成为你", "aliases": ["YagaKimi"] },
+  "images": { "poster": "/images/yagakimi_poster.jpg", "banner": "/images/yagakimi_banner.jpg", "logo": null },
+  "type": { "main": "ANIME", "sub": "TV" },
+  "status": "FINISHED",
+  "period": { "start": "2018-10-05", "end": "2018-12-28" },
+  "synopsis": "不明白与人恋爱的心情，为此感到烦恼的小糸侑，在初中毕业时被要好的男生告白，却无法给予回应。侑在此时邂逅了学生会成员七海灯子，灯子不论被谁告白，都无法喜欢上对方。与灯子共同度过的时间里，侑的心境开始发生变化。",
+  "counts": { "episodes": 13, "volumes": null, "chapters": null },
+  "tags": ["校园", "恋爱", "剧情"],
+  "staff": [ { "role": "原作", "name": "仲谷鳰" }, { "role": "监督", "name": "加藤誠" }, { "role": "动画制作", "name": "TROYCA" } ],
+  "characters": [
+    { "characterId": 101, "name": "小糸侑", "role_in_work": "主角" },
+    { "characterId": 102, "name": "七海灯子", "role_in_work": "主角" },
+    { "characterId": 103, "name": "佐伯沙弥香", "role_in_work": "配角" }
+  ],
+  "relations": [ { "relationType": "改编自", "workId": 2 } ],
+  "yuri_details": { "level": "真百", "concentration": 95 },
+  "links": { "official_site": "http://yagakimi.com/", "aniList": "https://anilist.co/anime/101573", "bangumi": "https://bgm.tv/subject/238332" }
+}
