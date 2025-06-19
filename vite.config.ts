@@ -15,4 +15,19 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  // --- 添加以下 server 配置 ---
+  server: {
+    proxy: {
+      // 定义一个代理规则，所有以 /api 开头的请求都会被拦截
+      '/api': {
+        // 代理的目标服务器。由于我们只是想利用代理的路径重写功能，
+        // 而不是真的要请求另一个服务器，所以这里可以不设置或指向自己。
+        // 我们将它留空，主要依赖 rewrite 功能。
+        target: 'http://localhost:5173', // 假设你的开发服务器运行在 5173 端口
+        changeOrigin: true, // 必须设置为 true，表示改变请求源
+        // 路径重写规则
+        rewrite: (path) => path.replace(/^\/api/, '')
+      }
+    }
+  }
 })
