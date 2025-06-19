@@ -1,0 +1,178 @@
+[
+  {
+    "id": 101,
+    "name": { "primary": "小糸侑", "chinese": "小糸侑", "aliases": ["Koito Yuu"] },
+    "image": "/mock/images/char_101.jpg",
+    "description": "对“特别”的恋爱抱有憧憬，但自己却无法体会。性格优柔寡断，不擅长拒绝他人的请求。",
+    "attributes": { "birthday": "4月5日", "height": "153cm" },
+    "staff": [{ "role": "CV", "name": "高田憂希" }]
+  },
+  {
+    "id": 102,
+    "name": { "primary": "七海燈子", "chinese": "七海灯子", "aliases": ["Nanami Touko"] },
+    "image": "/mock/images/char_102.jpg",
+    "description": "品学兼优、文武双全的学生会长。因为过去的经历，她扮演着“完美”的自己，不允许任何人喜欢上真实的自己。",
+    "attributes": { "birthday": "2月19日", "height": "163cm" },
+    "staff": [{ "role": "CV", "name": "寿美菜子" }]
+  },
+  {
+    "id": 103,
+    "name": { "primary": "佐伯沙弥香", "chinese": "佐伯沙弥香", "aliases": ["Saeki Sayaka"] },
+    "image": "/mock/images/char_103.jpg",
+    "description": "学生会副会长，灯子的挚友，也是一年级时起就支持着她的才女。对灯子抱有特别的感情。",
+    "attributes": { "birthday": "7月28日", "height": "163cm" },
+    "staff": [{ "role": "CV", "name": "茅野愛衣" }]
+  },
+  {
+    "id": 201,
+    "name": { "primary": "鎧塚みぞれ", "chinese": "铠冢霙", "aliases": ["Yoroizuka Mizore"] },
+    "image": "/mock/images/char_201.jpg",
+    "description": "北宇治高中管乐团的双簧管手。性格内向、安静，不擅长与人交往，将希美视为自己的一切。",
+    "attributes": { "birthday": "7月2日", "height": "" },
+    "staff": [{ "role": "CV", "name": "種﨑敦美" }]
+  },
+  {
+    "id": 202,
+    "name": { "primary": "傘木希美", "chinese": "伞木希美", "aliases": ["Kasaki Nozomi"] },
+    "image": "/mock/images/char_202.jpg",
+    "description": "北宇治高中管乐团的长笛手。性格开朗，朋友众多，是霙唯一的朋友，也是她重新加入吹奏部的理由。",
+    "attributes": { "birthday": "12月3日", "height": "" },
+    "staff": [{ "role": "CV", "name": "東山奈央" }]
+  },
+  {
+    "id": 301,
+    "name": { "primary": "安達桜", "chinese": "安达樱", "aliases": ["Adachi Sakura"] },
+    "image": "/mock/images/char_301.jpg",
+    "description": "不擅长人际交往，经常在体育馆二楼翘课。遇到岛村后，世界开始发生变化，对岛村的感情日益加深。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "鬼頭明里" }]
+  },
+  {
+    "id": 302,
+    "name": { "primary": "島村抱月", "chinese": "岛村抱月", "aliases": ["Shimamura Hougetsu"] },
+    "image": "/mock/images/char_302.jpg",
+    "description": "同样经常翘课，对人际关系有些淡漠，但内心温柔。对安达的强烈情感感到有些困惑，但也在慢慢回应。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "伊藤美来" }]
+  },
+  {
+    "id": 401,
+    "name": { "primary": "吉田優子", "chinese": "吉田优子", "aliases": ["Yoshida Yuko", "シャミ子"] },
+    "image": "/mock/images/char_401.jpg",
+    "description": "突然觉醒为暗之一族的魔族少女，但心地善良，体力很差。为了打败魔法少女而奋斗，但总是失败。",
+    "attributes": { "birthday": "9月28日", "height": "145cm" },
+    "staff": [{ "role": "CV", "name": "小原好美" }]
+  },
+  {
+    "id": 402,
+    "name": { "primary": "千代田桃", "chinese": "千代田桃", "aliases": ["Chiyoda Momo"] },
+    "image": "/mock/images/char_402.jpg",
+    "description": "光之一族的魔法少女，战斗力极强。虽然是优子的“敌人”，但总是忍不住照顾她。",
+    "attributes": { "birthday": "3月25日", "height": "165cm" },
+    "staff": [{ "role": "CV", "name": "鬼頭明里" }]
+  },
+  {
+    "id": 501,
+    "name": { "primary": "藍原柚子", "chinese": "蓝原柚子", "aliases": ["Aihara Yuzu"] },
+    "image": "/mock/images/char_501.jpg",
+    "description": "外表是时尚的辣妹，但实际上纯情且一次恋爱都没谈过。对成为义理姐妹的芽衣抱有复杂的感情。",
+    "attributes": { "birthday": "8月8日", "height": "164cm" },
+    "staff": [{ "role": "CV", "name": "竹達彩奈" }]
+  },
+  {
+    "id": 502,
+    "name": { "primary": "藍原芽衣", "chinese": "蓝原芽衣", "aliases": ["Aihara Mei"] },
+    "image": "/mock/images/char_502.jpg",
+    "description": "外表冷酷的学生会长，成绩优秀。内心隐藏着不为人知的孤独与烦恼。",
+    "attributes": { "birthday": "9月13日", "height": "166cm" },
+    "staff": [{ "role": "CV", "name": "津田美波" }]
+  },
+  {
+    "id": 601,
+    "name": { "primary": "赤座あかり", "chinese": "赤座灯里", "aliases": ["Akaza Akari"] },
+    "image": "/mock/images/char_601.jpg",
+    "description": "本作的主角……但存在感很薄弱。是个非常善良的好孩子。",
+    "attributes": { "birthday": "9月24日", "height": "153cm" },
+    "staff": [{ "role": "CV", "name": "三上枝織" }]
+  },
+  {
+    "id": 602,
+    "name": { "primary": "歳納京子", "chinese": "岁纳京子", "aliases": ["Toshino Kyoko"] },
+    "image": "/mock/images/char_602.jpg",
+    "description": "娱乐部的实际创立者。性格活泼开朗，喜欢创作同人志，对吉川千夏非常感兴趣。",
+    "attributes": { "birthday": "3月28日", "height": "156cm" },
+    "staff": [{ "role": "CV", "name": "大坪由佳" }]
+  },
+  {
+    "id": 603,
+    "name": { "primary": "船見結衣", "chinese": "船见结衣", "aliases": ["Funami Yui"] },
+    "image": "/mock/images/char_603.jpg",
+    "description": "冷静理智的吐槽担当。虽然经常对京子的暴走感到头疼，但其实非常珍视朋友。",
+    "attributes": { "birthday": "4月22日", "height": "160cm" },
+    "staff": [{ "role": "CV", "name": "津田美波" }]
+  },
+  {
+    "id": 604,
+    "name": { "primary": "吉川ちなつ", "chinese": "吉川千夏", "aliases": ["Yoshikawa Chinatsu"] },
+    "image": "/mock/images/char_604.jpg",
+    "description": "表面上是可爱的女孩子，但内心有些腹黑。非常憧憬船见结衣。",
+    "attributes": { "birthday": "11月6日", "height": "149cm" },
+    "staff": [{ "role": "CV", "name": "大久保瑠美" }]
+  },
+  {
+    "id": 701,
+    "name": { "primary": "福沢祐巳", "chinese": "福泽祐巳", "aliases": ["Fukuzawa Yumi"] },
+    "image": "/mock/images/char_701.jpg",
+    "description": "平凡、胆小但内心坚强的少女。被祥子选中成为她的“妹妹”，从此卷入了山百合会的生活。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "植田佳奈" }]
+  },
+  {
+    "id": 702,
+    "name": { "primary": "小笠原祥子", "chinese": "小笠原祥子", "aliases": ["Ogasawara Sachiko"] },
+    "image": "/mock/images/char_702.jpg",
+    "description": "山百合会红蔷薇家族的成员，校园偶像。外表高傲，但内心非常纯情和害羞。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "伊藤美紀" }]
+  },
+  {
+    "id": 801,
+    "name": { "primary": "蒼井渚砂", "chinese": "苍井渚砂", "aliases": ["Aoi Nagisa"] },
+    "image": "/mock/images/char_801.jpg",
+    "description": "从乡下转学到阿斯特拉艾亚的少女，性格活泼，但有些冒失。被静马的魅力所吸引。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "中原麻衣" }]
+  },
+  {
+    "id": 802,
+    "name": { "primary": "花園静馬", "chinese": "花园静马", "aliases": ["Hanazono Shizuma"] },
+    "image": "/mock/images/char_802.jpg",
+    "description": "代表三校顶点的“艾特瓦尔”，拥有超凡的魅力和美貌，但似乎对一切都感到厌倦。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "生天目仁美" }]
+  },
+  {
+    "id": 803,
+    "name": { "primary": "涼水玉青", "chinese": "凉水玉青", "aliases": ["Suzumi Tamao"] },
+    "image": "/mock/images/char_803.jpg",
+    "description": "渚砂的室友兼同班同学。性格认真，文静，是渚砂在学园里的第一个朋友。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "清水愛" }]
+  },
+  {
+    "id": 901,
+    "name": { "primary": "サフラン", "chinese": "番红花", "aliases": ["Saffron"] },
+    "image": "/mock/images/char_901.jpg",
+    "description": "王室御用达的时尚品牌创始人的女儿，大贵族。但本人不喜欢拘谨，希望和团长轻松相处。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "???" }]
+  },
+  {
+    "id": 902,
+    "name": { "primary": "ユリ", "chinese": "百合", "aliases": ["Yuri"] },
+    "image": "/mock/images/char_902.jpg",
+    "description": "宣称自己将要立于世界顶点的花骑士。非常清楚自己的目标并为此努力。",
+    "attributes": { "birthday": "", "height": "" },
+    "staff": [{ "role": "CV", "name": "???" }]
+  }
+]

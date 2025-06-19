@@ -1,18 +1,18 @@
 <template>
   <v-app>
+    <Navbar />
+
     <v-main>
-      <v-container class="d-flex justify-center align-center fill-height">
-        <div class="text-center">
-          <h1 class="text-h4">百合作品数据库</h1>
-          <p class="mt-2">项目环境初始化成功！</p>
-        </div>
-      </v-container>
+      <router-view />
     </v-main>
+
+    <Footer />
   </v-app>
 </template>
 
 <script setup lang="ts">
-// 这里暂时不需要任何脚本
+import Navbar from '@/components/Navbar.vue'
+import Footer from '@/components/Footer.vue'
 </script>
 
 <style scoped>

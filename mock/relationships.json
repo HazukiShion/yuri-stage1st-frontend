@@ -1,0 +1,20 @@
+[
+  { "id": 1, "source_character_id": 101, "target_character_id": 102, "relation_type": "恋人", "context": "两人是作品的核心情侣，互相探索着“喜欢”的真意。" },
+  { "id": 2, "source_character_id": 101, "target_character_id": 103, "relation_type": "情敌/友人", "context": "沙弥香单恋着灯子，视侑为情敌，但后期也发展出友情。" },
+  { "id": 3, "source_character_id": 102, "target_character_id": 103, "relation_type": "挚友", "context": "沙弥香是灯子最信赖的朋友和支持者。" },
+  { "id": 4, "source_character_id": 201, "target_character_id": 202, "relation_type": "相互依存", "context": "霙依赖着希美，希美则是霙与外界唯一的连接点，关系复杂而深刻。" },
+  { "id": 5, "source_character_id": 301, "target_character_id": 302, "relation_type": "友人以上，恋人未满", "context": "安达单恋岛村，岛村虽然迟钝但也在逐渐回应，关系正在向恋人发展。" },
+  { "id": 6, "source_character_id": 401, "target_character_id": 402, "relation_type": "宿敌/保护者", "context": "虽然立场上是敌对的魔族和魔法少女，但桃总是在照顾和保护着冒失的优子。" },
+  { "id": 7, "source_character_id": 501, "target_character_id": 502, "relation_type": "恋人/义姐妹", "context": "从冲突不断的义理姐妹关系，发展为互相扶持的恋人。" },
+  { "id": 8, "source_character_id": 601, "target_character_id": 602, "relation_type": "友人", "context": "娱乐部的伙伴。" },
+  { "id": 9, "source_character_id": 601, "target_character_id": 603, "relation_type": "友人", "context": "娱乐部的伙伴。" },
+  { "id": 10, "source_character_id": 601, "target_character_id": 604, "relation_type": "友人", "context": "娱乐部的伙伴。" },
+  { "id": 11, "source_character_id": 602, "target_character_id": 603, "relation_type": "幼驯染/友人", "context": "从小就认识的朋友，结衣是京子主要的吐槽对象。" },
+  { "id": 12, "source_character_id": 602, "target_character_id": 604, "relation_type": "单向爱慕(京子→千夏)", "context": "京子对与千夏长相相似的动漫角色“米拉库”非常着迷。" },
+  { "id": 13, "source_character_id": 603, "target_character_id": 604, "relation_type": "单向爱慕(千夏→结衣)", "context": "千夏非常憧憬和喜欢结衣。" },
+  { "id": 14, "source_character_id": 701, "target_character_id": 702, "relation_type": "姐妹(Sœur)", "context": "祥子是祐巳的“姐姐”，引导着她，两人之间是超越普通友谊的深厚羁绊。" },
+  { "id": 15, "source_character_id": 801, "target_character_id": 802, "relation_type": "恋人", "context": "渚砂与静马是学园公认的情侣，也是故事的核心。" },
+  { "id": 16, "source_character_id": 801, "target_character_id": 803, "relation_type": "室友/友人", "context": "玉青是渚砂的第一个朋友和室友，一直关心和支持她。" },
+  { "id": 17, "source_character_id": 802, "target_character_id": 803, "relation_type": "友人", "context": "静马和玉青是朋友关系。" },
+  { "id": 18, "source_character_id": 901, "target_character_id": 902, "relation_type": "战友", "context": "同为花骑士，共同为了守护世界和平而战（玩家可自由想象）。" }
+]
