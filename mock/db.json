@@ -1,0 +1,670 @@
+{
+  "work": [
+    {
+      "id": 1,
+      "title": {
+        "primary": "やがて君になる",
+        "chinese": "终将成为你",
+        "aliases": ["Yagate Kimi ni Naru", "Bloom Into You"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_1.jpg",
+        "banner": "/mock/images/banner_1.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "漫画",
+        "sub": "连载漫画"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2015-04-27",
+        "end": "2019-09-27"
+      },
+      "synopsis": "因不明白与人恋爱的心情而感到烦恼的少女小糸侑，在初中毕业时被要好的男生告白但却无法回应。侑在升入高中后，加入了学生会，在那里她目睹了学生会成员七海灯子优雅地拒绝别人的告白。侑和灯子，两人之间特殊的关系由此展开……",
+      "counts": {
+        "volumes": 8,
+        "chapters": 45
+      },
+      "tags": ["校园", "恋爱", "学生会"],
+      "staff": [
+        {
+          "role": "作者",
+          "name": "仲谷鳰"
+        }
+      ],
+      "characters": [
+        { "characterId": 101, "name": "小糸侑", "role_in_work": "主角" },
+        { "characterId": 102, "name": "七海燈子", "role_in_work": "主角" },
+        { "characterId": 103, "name": "佐伯沙弥香", "role_in_work": "配角" }
+      ],
+      "relations": [
+        {
+          "relationType": "动画化",
+          "workId": 2
+        }
+      ],
+      "yuri_details": {
+        "level": "真百",
+        "concentration": 100
+      },
+      "links": {
+        "official_site": "http://yagakimi.com/",
+        "aniList": "https://anilist.co/manga/86218",
+        "bangumi": "https://bgm.tv/subject/132936"
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "primary": "やがて君になる",
+        "chinese": "终将成为你",
+        "aliases": ["Yagate Kimi ni Naru", "Bloom Into You"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_2.jpg",
+        "banner": "/mock/images/banner_2.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "动画",
+        "sub": "TV动画"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2018-10-05",
+        "end": "2018-12-28"
+      },
+      "synopsis": "TV动画版《终将成为你》的剧情，改编自仲谷鳰创作的同名漫画。",
+      "counts": {
+        "episodes": 13
+      },
+      "tags": ["校园", "恋爱", "学生会"],
+      "staff": [
+        { "role": "原作", "name": "仲谷鳰" },
+        { "role": "监督", "name": "加藤誠" },
+        { "role": "系列构成", "name": "花田十輝" }
+      ],
+      "characters": [
+        { "characterId": 101, "name": "小糸侑", "role_in_work": "主角" },
+        { "characterId": 102, "name": "七海燈子", "role_in_work": "主角" },
+        { "characterId": 103, "name": "佐伯沙弥香", "role_in_work": "配角" }
+      ],
+      "relations": [
+        {
+          "relationType": "原作",
+          "workId": 1
+        }
+      ],
+      "yuri_details": {
+        "level": "真百",
+        "concentration": 100
+      },
+      "links": {
+        "official_site": "http://yagakimi.com/",
+        "aniList": "https://anilist.co/anime/101573",
+        "bangumi": "https://bgm.tv/subject/241032"
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "primary": "リズと青い鳥",
+        "chinese": "莉兹与青鸟",
+        "aliases": ["Liz and the Blue Bird"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_3.jpg",
+        "banner": "/mock/images/banner_3.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "动画",
+        "sub": "剧场版"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2018-04-21",
+        "end": "2018-04-21"
+      },
+      "synopsis": "就读北宇治高中的铠冢霙与伞木希美，在管乐团中分别负责双簧管与长笛。两人是高三的最后一次大赛，自选曲是《莉兹与青鸟》。这首曲子讲述了少女莉兹与身为青鸟化身的少女之间悲伤的童话故事。霙与希美将自身投影到童话故事中，一边进行着每日的练习，但“两人将会分开”的预感却一直困扰着她们。",
+      "counts": {
+        "episodes": 1
+      },
+      "tags": ["校园", "音乐", "吹奏乐"],
+      "staff": [
+        { "role": "原作", "name": "武田綾乃" },
+        { "role": "监督", "name": "山田尚子" },
+        { "role": "脚本", "name": "吉田玲子" }
+      ],
+      "characters": [
+        { "characterId": 201, "name": "鎧塚みぞれ", "role_in_work": "主角" },
+        { "characterId": 202, "name": "傘木希美", "role_in_work": "主角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "赢面",
+        "concentration": 95
+      },
+      "links": {
+        "official_site": "http://liz-bluebird.com/",
+        "aniList": "https://anilist.co/anime/100178",
+        "bangumi": "https://bgm.tv/subject/227982"
+      }
+    },
+    {
+      "id": 4,
+      "title": {
+        "primary": "安達としまむら",
+        "chinese": "安达与岛村",
+        "aliases": ["Adachi and Shimamura"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_4.jpg",
+        "banner": "/mock/images/banner_4.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "小说",
+        "sub": "轻小说"
+      },
+      "status": "连载中",
+      "period": {
+        "start": "2013-03-10",
+        "end": ""
+      },
+      "synopsis": "高一女学生安达与岛村是好朋友，她们总是腻在一起聊天，偶尔打桌球，培育着名为友情的情感。然而，某天夜晚，安达梦见自己和岛村接吻，因此意识到了自己对岛村抱持着特殊的情感。",
+      "counts": {
+        "volumes": 11
+      },
+      "tags": ["校园", "日常", "恋爱"],
+      "staff": [
+        { "role": "作者", "name": "入間人間" },
+        { "role": "插画", "name": "のん" }
+      ],
+      "characters": [
+        { "characterId": 301, "name": "安達桜", "role_in_work": "主角" },
+        { "characterId": 302, "name": "島村抱月", "role_in_work": "主角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "半步真百",
+        "concentration": 98
+      },
+      "links": {
+        "official_site": "https://dengekibunko.jp/special/adashim/",
+        "aniList": "https://anilist.co/manga/86349",
+        "bangumi": "https://bgm.tv/subject/65213"
+      }
+    },
+    {
+      "id": 5,
+      "title": {
+        "primary": "まちカドまぞく",
+        "chinese": "街角魔族",
+        "aliases": ["The Demon Girl Next Door"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_5.jpg",
+        "banner": "/mock/images/banner_5.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "动画",
+        "sub": "TV动画"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2019-07-11",
+        "end": "2022-07-01"
+      },
+      "synopsis": "某天早上，吉田优子发现自己长出了角和尾巴，原来自己是暗之一族的后裔。为了解除诅咒，她必须去打败光之一族的魔法少女。但这位魔法少女千代田桃却是她的同校同学，而且战斗力超强。优子在各种意义上都陷入了绝境。",
+      "counts": {
+        "episodes": 24
+      },
+      "tags": ["奇幻", "喜剧", "日常"],
+      "staff": [
+        { "role": "原作", "name": "伊藤いづも" },
+        { "role": "监督", "name": "桜井弘明" }
+      ],
+      "characters": [
+        { "characterId": 401, "name": "吉田優子", "role_in_work": "主角" },
+        { "characterId": 402, "name": "千代田桃", "role_in_work": "主角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "轻百",
+        "concentration": 70
+      },
+      "links": {
+        "official_site": "https://www.tbs.co.jp/anime/machikado/",
+        "aniList": "https://anilist.co/anime/107490",
+        "bangumi": "https://bgm.tv/subject/272338"
+      }
+    },
+    {
+      "id": 6,
+      "title": {
+        "primary": "citrus",
+        "chinese": "citrus～柑橘味香气～",
+        "aliases": ["Citrus"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_6.jpg",
+        "banner": "/mock/images/banner_6.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "漫画",
+        "sub": "连载漫画"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2012-11-17",
+        "end": "2018-08-18"
+      },
+      "synopsis": "从来没有谈过恋爱的辣妹蓝原柚子，因为母亲再婚而转入了一所女子高中。她在这里遇到了黑发的美人学生会长蓝原芽衣。两人因各种原因成为义理姐妹，开始了在同一屋檐下的生活。",
+      "counts": {
+        "volumes": 10,
+        "chapters": 41
+      },
+      "tags": ["校园", "恋爱", "辣妹"],
+      "staff": [
+        { "role": "作者", "name": "サブロウタ" }
+      ],
+      "characters": [
+        { "characterId": 501, "name": "藍原柚子", "role_in_work": "主角" },
+        { "characterId": 502, "name": "藍原芽衣", "role_in_work": "主角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "真百",
+        "concentration": 100
+      },
+      "links": {
+        "official_site": "https://www.ichijinsha.co.jp/yurihime/citrus/",
+        "aniList": "https://anilist.co/manga/80145",
+        "bangumi": "https://bgm.tv/subject/83813"
+      }
+    },
+    {
+      "id": 7,
+      "title": {
+        "primary": "ゆるゆり",
+        "chinese": "摇曳百合",
+        "aliases": ["YuruYuri"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_7.jpg",
+        "banner": "/mock/images/banner_7.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "动画",
+        "sub": "TV动画"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2011-07-05",
+        "end": "2015-12-21"
+      },
+      "synopsis": "故事发生在七森中学，废部了的茶道社被四个女生占据，成立了“娱乐部”。性格各异的赤座灯里、岁纳京子、船见结衣、吉川千夏四人，与觊觎着娱乐部活动室的学生会成员们展开了充满欢笑与百合的日常生活。",
+      "counts": {
+        "episodes": 36
+      },
+      "tags": ["喜剧", "校园", "日常"],
+      "staff": [
+        { "role": "原作", "name": "なもり" },
+        { "role": "监督", "name": "太田雅彦" }
+      ],
+      "characters": [
+        { "characterId": 601, "name": "赤座あかり", "role_in_work": "主角" },
+        { "characterId": 602, "name": "歳納京子", "role_in_work": "主角" },
+        { "characterId": 603, "name": "船見結衣", "role_in_work": "主角" },
+        { "characterId": 604, "name": "吉川ちなつ", "role_in_work": "主角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "轻百",
+        "concentration": 80
+      },
+      "links": {
+        "official_site": "https://yuruyuri.com/",
+        "aniList": "https://anilist.co/anime/10495",
+        "bangumi": "https://bgm.tv/subject/16353"
+      }
+    },
+    {
+      "id": 8,
+      "title": {
+        "primary": "マリア様がみてる",
+        "chinese": "圣母在上",
+        "aliases": ["Maria-sama ga Miteru"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_8.jpg",
+        "banner": "/mock/images/banner_8.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "小说",
+        "sub": "文学小说"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "1998-04-24",
+        "end": "2012-04-28"
+      },
+      "synopsis": "私立莉莉安女子学园是一所历史悠久的天主教女子学校。这里的学生会“山百合会”有着独特的“姐妹”制度。平凡的一年级新生福泽祐巳，在因缘际会下被二年级的校园偶像小笠原祥子选为“妹妹”，从此开始了她不平凡的校园生活。",
+      "counts": {
+        "volumes": 39
+      },
+      "tags": ["校园", "S-class", "贵族学校"],
+      "staff": [
+        { "role": "作者", "name": "今野緒雪" },
+        { "role": "插画", "name": "ひびき玲音" }
+      ],
+      "characters": [
+        { "characterId": 701, "name": "福沢祐巳", "role_in_work": "主角" },
+        { "characterId": 702, "name": "小笠原祥子", "role_in_work": "主角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "轻百",
+        "concentration": 85
+      },
+      "links": {
+        "official_site": "https://cobalt.shueisha.co.jp/contents/maria/",
+        "aniList": "https://anilist.co/manga/31580",
+        "bangumi": "https://bgm.tv/subject/1580"
+      }
+    },
+    {
+      "id": 9,
+      "title": {
+        "primary": "ストロベリー・パニック！",
+        "chinese": "惊爆草莓",
+        "aliases": ["Strawberry Panic!"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_9.jpg",
+        "banner": "/mock/images/banner_9.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "动画",
+        "sub": "TV动画"
+      },
+      "status": "已完结",
+      "period": {
+        "start": "2006-04-04",
+        "end": "2006-09-26"
+      },
+      "synopsis": "故事发生在一所名为“阿斯特拉艾亚”的山丘上的女子住宿学校，这里由三所独立的女子学园组成。转学生苍井渚砂在这里遇到了代表着三所学园顶点的人物——“艾特瓦尔”花园静马。两人的相遇，搅动了这所秘密花园的宁静。",
+      "counts": {
+        "episodes": 26
+      },
+      "tags": ["校园", "恋爱", "贵族学校"],
+      "staff": [
+        { "role": "原作", "name": "公野櫻子" },
+        { "role": "监督", "name": "迫井政行" }
+      ],
+      "characters": [
+        { "characterId": 801, "name": "蒼井渚砂", "role_in_work": "主角" },
+        { "characterId": 802, "name": "花園静馬", "role_in_work": "主角" },
+        { "characterId": 803, "name": "涼水玉青", "role_in_work": "配角" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "真百",
+        "concentration": 95
+      },
+      "links": {
+        "official_site": "",
+        "aniList": "https://anilist.co/anime/855",
+        "bangumi": "https://bgm.tv/subject/4636"
+      }
+    },
+    {
+      "id": 10,
+      "title": {
+        "primary": "フラワーナイトガール",
+        "chinese": "花骑士",
+        "aliases": ["FLOWER KNIGHT GIRL"]
+      },
+      "images": {
+        "poster": "/mock/images/poster_10.jpg",
+        "banner": "/mock/images/banner_10.jpg",
+        "logo": ""
+      },
+      "type": {
+        "main": "游戏",
+        "sub": "网页游戏"
+      },
+      "status": "运营中",
+      "period": {
+        "start": "2015-01-27",
+        "end": ""
+      },
+      "synopsis": "在一个受到害虫威胁的“春天庭园”世界中，玩家将作为统领花骑士的团长，与各种美少女“花骑士”一起，为了守护世界的和平而战。游戏中有大量的花骑士角色，她们之间的互动充满了友情和淡淡的百合气息。",
+      "counts": {},
+      "tags": ["奇幻", "美少女", "养成"],
+      "staff": [
+        { "role": "开发", "name": "Your Games" },
+        { "role": "运营", "name": "DMM GAMES" }
+      ],
+      "characters": [
+        { "characterId": 901, "name": "サフラン", "role_in_work": "角色" },
+        { "characterId": 902, "name": "ユリ", "role_in_work": "角色" }
+      ],
+      "relations": [],
+      "yuri_details": {
+        "level": "输面",
+        "concentration": 40
+      },
+      "links": {
+        "official_site": "https://flower-knight-girl.com/",
+        "aniList": "",
+        "bangumi": "https://bgm.tv/subject/131034"
+      }
+    }
+  ],
+  "character": [
+    {
+      "id": 101,
+      "name": { "primary": "小糸侑", "chinese": "小糸侑", "aliases": ["Koito Yuu"] },
+      "image": "/mock/images/char_101.jpg",
+      "description": "对“特别”的恋爱抱有憧憬，但自己却无法体会。性格优柔寡断，不擅长拒绝他人的请求。",
+      "attributes": { "birthday": "4月5日", "height": "153cm" },
+      "staff": [{ "role": "CV", "name": "高田憂希" }]
+    },
+    {
+      "id": 102,
+      "name": { "primary": "七海燈子", "chinese": "七海灯子", "aliases": ["Nanami Touko"] },
+      "image": "/mock/images/char_102.jpg",
+      "description": "品学兼优、文武双全的学生会长。因为过去的经历，她扮演着“完美”的自己，不允许任何人喜欢上真实的自己。",
+      "attributes": { "birthday": "2月19日", "height": "163cm" },
+      "staff": [{ "role": "CV", "name": "寿美菜子" }]
+    },
+    {
+      "id": 103,
+      "name": { "primary": "佐伯沙弥香", "chinese": "佐伯沙弥香", "aliases": ["Saeki Sayaka"] },
+      "image": "/mock/images/char_103.jpg",
+      "description": "学生会副会长，灯子的挚友，也是一年级时起就支持着她的才女。对灯子抱有特别的感情。",
+      "attributes": { "birthday": "7月28日", "height": "163cm" },
+      "staff": [{ "role": "CV", "name": "茅野愛衣" }]
+    },
+    {
+      "id": 201,
+      "name": { "primary": "鎧塚みぞれ", "chinese": "铠冢霙", "aliases": ["Yoroizuka Mizore"] },
+      "image": "/mock/images/char_201.jpg",
+      "description": "北宇治高中管乐团的双簧管手。性格内向、安静，不擅长与人交往，将希美视为自己的一切。",
+      "attributes": { "birthday": "7月2日", "height": "" },
+      "staff": [{ "role": "CV", "name": "種﨑敦美" }]
+    },
+    {
+      "id": 202,
+      "name": { "primary": "傘木希美", "chinese": "伞木希美", "aliases": ["Kasaki Nozomi"] },
+      "image": "/mock/images/char_202.jpg",
+      "description": "北宇治高中管乐团的长笛手。性格开朗，朋友众多，是霙唯一的朋友，也是她重新加入吹奏部的理由。",
+      "attributes": { "birthday": "12月3日", "height": "" },
+      "staff": [{ "role": "CV", "name": "東山奈央" }]
+    },
+    {
+      "id": 301,
+      "name": { "primary": "安達桜", "chinese": "安达樱", "aliases": ["Adachi Sakura"] },
+      "image": "/mock/images/char_301.jpg",
+      "description": "不擅长人际交往，经常在体育馆二楼翘课。遇到岛村后，世界开始发生变化，对岛村的感情日益加深。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "鬼頭明里" }]
+    },
+    {
+      "id": 302,
+      "name": { "primary": "島村抱月", "chinese": "岛村抱月", "aliases": ["Shimamura Hougetsu"] },
+      "image": "/mock/images/char_302.jpg",
+      "description": "同样经常翘课，对人际关系有些淡漠，但内心温柔。对安达的强烈情感感到有些困惑，但也在慢慢回应。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "伊藤美来" }]
+    },
+    {
+      "id": 401,
+      "name": { "primary": "吉田優子", "chinese": "吉田优子", "aliases": ["Yoshida Yuko", "シャミ子"] },
+      "image": "/mock/images/char_401.jpg",
+      "description": "突然觉醒为暗之一族的魔族少女，但心地善良，体力很差。为了打败魔法少女而奋斗，但总是失败。",
+      "attributes": { "birthday": "9月28日", "height": "145cm" },
+      "staff": [{ "role": "CV", "name": "小原好美" }]
+    },
+    {
+      "id": 402,
+      "name": { "primary": "千代田桃", "chinese": "千代田桃", "aliases": ["Chiyoda Momo"] },
+      "image": "/mock/images/char_402.jpg",
+      "description": "光之一族的魔法少女，战斗力极强。虽然是优子的“敌人”，但总是忍不住照顾她。",
+      "attributes": { "birthday": "3月25日", "height": "165cm" },
+      "staff": [{ "role": "CV", "name": "鬼頭明里" }]
+    },
+    {
+      "id": 501,
+      "name": { "primary": "藍原柚子", "chinese": "蓝原柚子", "aliases": ["Aihara Yuzu"] },
+      "image": "/mock/images/char_501.jpg",
+      "description": "外表是时尚的辣妹，但实际上纯情且一次恋爱都没谈过。对成为义理姐妹的芽衣抱有复杂的感情。",
+      "attributes": { "birthday": "8月8日", "height": "164cm" },
+      "staff": [{ "role": "CV", "name": "竹達彩奈" }]
+    },
+    {
+      "id": 502,
+      "name": { "primary": "藍原芽衣", "chinese": "蓝原芽衣", "aliases": ["Aihara Mei"] },
+      "image": "/mock/images/char_502.jpg",
+      "description": "外表冷酷的学生会长，成绩优秀。内心隐藏着不为人知的孤独与烦恼。",
+      "attributes": { "birthday": "9月13日", "height": "166cm" },
+      "staff": [{ "role": "CV", "name": "津田美波" }]
+    },
+    {
+      "id": 601,
+      "name": { "primary": "赤座あかり", "chinese": "赤座灯里", "aliases": ["Akaza Akari"] },
+      "image": "/mock/images/char_601.jpg",
+      "description": "本作的主角……但存在感很薄弱。是个非常善良的好孩子。",
+      "attributes": { "birthday": "9月24日", "height": "153cm" },
+      "staff": [{ "role": "CV", "name": "三上枝織" }]
+    },
+    {
+      "id": 602,
+      "name": { "primary": "歳納京子", "chinese": "岁纳京子", "aliases": ["Toshino Kyoko"] },
+      "image": "/mock/images/char_602.jpg",
+      "description": "娱乐部的实际创立者。性格活泼开朗，喜欢创作同人志，对吉川千夏非常感兴趣。",
+      "attributes": { "birthday": "3月28日", "height": "156cm" },
+      "staff": [{ "role": "CV", "name": "大坪由佳" }]
+    },
+    {
+      "id": 603,
+      "name": { "primary": "船見結衣", "chinese": "船见结衣", "aliases": ["Funami Yui"] },
+      "image": "/mock/images/char_603.jpg",
+      "description": "冷静理智的吐槽担当。虽然经常对京子的暴走感到头疼，但其实非常珍视朋友。",
+      "attributes": { "birthday": "4月22日", "height": "160cm" },
+      "staff": [{ "role": "CV", "name": "津田美波" }]
+    },
+    {
+      "id": 604,
+      "name": { "primary": "吉川ちなつ", "chinese": "吉川千夏", "aliases": ["Yoshikawa Chinatsu"] },
+      "image": "/mock/images/char_604.jpg",
+      "description": "表面上是可爱的女孩子，但内心有些腹黑。非常憧憬船见结衣。",
+      "attributes": { "birthday": "11月6日", "height": "149cm" },
+      "staff": [{ "role": "CV", "name": "大久保瑠美" }]
+    },
+    {
+      "id": 701,
+      "name": { "primary": "福沢祐巳", "chinese": "福泽祐巳", "aliases": ["Fukuzawa Yumi"] },
+      "image": "/mock/images/char_701.jpg",
+      "description": "平凡、胆小但内心坚强的少女。被祥子选中成为她的“妹妹”，从此卷入了山百合会的生活。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "植田佳奈" }]
+    },
+    {
+      "id": 702,
+      "name": { "primary": "小笠原祥子", "chinese": "小笠原祥子", "aliases": ["Ogasawara Sachiko"] },
+      "image": "/mock/images/char_702.jpg",
+      "description": "山百合会红蔷薇家族的成员，校园偶像。外表高傲，但内心非常纯情和害羞。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "伊藤美紀" }]
+    },
+    {
+      "id": 801,
+      "name": { "primary": "蒼井渚砂", "chinese": "苍井渚砂", "aliases": ["Aoi Nagisa"] },
+      "image": "/mock/images/char_801.jpg",
+      "description": "从乡下转学到阿斯特拉艾亚的少女，性格活泼，但有些冒失。被静马的魅力所吸引。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "中原麻衣" }]
+    },
+    {
+      "id": 802,
+      "name": { "primary": "花園静馬", "chinese": "花园静马", "aliases": ["Hanazono Shizuma"] },
+      "image": "/mock/images/char_802.jpg",
+      "description": "代表三校顶点的“艾特瓦尔”，拥有超凡的魅力和美貌，但似乎对一切都感到厌倦。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "生天目仁美" }]
+    },
+    {
+      "id": 803,
+      "name": { "primary": "涼水玉青", "chinese": "凉水玉青", "aliases": ["Suzumi Tamao"] },
+      "image": "/mock/images/char_803.jpg",
+      "description": "渚砂的室友兼同班同学。性格认真，文静，是渚砂在学园里的第一个朋友。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "清水愛" }]
+    },
+    {
+      "id": 901,
+      "name": { "primary": "サフラン", "chinese": "番红花", "aliases": ["Saffron"] },
+      "image": "/mock/images/char_901.jpg",
+      "description": "王室御用达的时尚品牌创始人的女儿，大贵族。但本人不喜欢拘谨，希望和团长轻松相处。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "???" }]
+    },
+    {
+      "id": 902,
+      "name": { "primary": "ユリ", "chinese": "百合", "aliases": ["Yuri"] },
+      "image": "/mock/images/char_902.jpg",
+      "description": "宣称自己将要立于世界顶点的花骑士。非常清楚自己的目标并为此努力。",
+      "attributes": { "birthday": "", "height": "" },
+      "staff": [{ "role": "CV", "name": "???" }]
+    }
+  ],
+  "relationship": [
+    { "id": 1, "source_character_id": 101, "target_character_id": 102, "relation_type": "恋人", "context": "两人是作品的核心情侣，互相探索着“喜欢”的真意。" },
+    { "id": 2, "source_character_id": 101, "target_character_id": 103, "relation_type": "情敌/友人", "context": "沙弥香单恋着灯子，视侑为情敌，但后期也发展出友情。" },
+    { "id": 3, "source_character_id": 102, "target_character_id": 103, "relation_type": "挚友", "context": "沙弥香是灯子最信赖的朋友和支持者。" },
+    { "id": 4, "source_character_id": 201, "target_character_id": 202, "relation_type": "相互依存", "context": "霙依赖着希美，希美则是霙与外界唯一的连接点，关系复杂而深刻。" },
+    { "id": 5, "source_character_id": 301, "target_character_id": 302, "relation_type": "友人以上，恋人未满", "context": "安达单恋岛村，岛村虽然迟钝但也在逐渐回应，关系正在向恋人发展。" },
+    { "id": 6, "source_character_id": 401, "target_character_id": 402, "relation_type": "宿敌/保护者", "context": "虽然立场上是敌对的魔族和魔法少女，但桃总是在照顾和保护着冒失的优子。" },
+    { "id": 7, "source_character_id": 501, "target_character_id": 502, "relation_type": "恋人/义姐妹", "context": "从冲突不断的义理姐妹关系，发展为互相扶持的恋人。" },
+    { "id": 8, "source_character_id": 601, "target_character_id": 602, "relation_type": "友人", "context": "娱乐部的伙伴。" },
+    { "id": 9, "source_character_id": 601, "target_character_id": 603, "relation_type": "友人", "context": "娱乐部的伙伴。" },
+    { "id": 10, "source_character_id": 601, "target_character_id": 604, "relation_type": "友人", "context": "娱乐部的伙伴。" },
+    { "id": 11, "source_character_id": 602, "target_character_id": 603, "relation_type": "幼驯染/友人", "context": "从小就认识的朋友，结衣是京子主要的吐槽对象。" },
+    { "id": 12, "source_character_id": 602, "target_character_id": 604, "relation_type": "单向爱慕(京子→千夏)", "context": "京子对与千夏长相相似的动漫角色“米拉库”非常着迷。" },
+    { "id": 13, "source_character_id": 603, "target_character_id": 604, "relation_type": "单向爱慕(千夏→结衣)", "context": "千夏非常憧憬和喜欢结衣。" },
+    { "id": 14, "source_character_id": 701, "target_character_id": 702, "relation_type": "姐妹(Sœur)", "context": "祥子是祐巳的“姐姐”，引导着她，两人之间是超越普通友谊的深厚羁绊。" },
+    { "id": 15, "source_character_id": 801, "target_character_id": 802, "relation_type": "恋人", "context": "渚砂与静马是学园公认的情侣，也是故事的核心。" },
+    { "id": 16, "source_character_id": 801, "target_character_id": 803, "relation_type": "室友/友人", "context": "玉青是渚砂的第一个朋友和室友，一直关心和支持她。" },
+    { "id": 17, "source_character_id": 802, "target_character_id": 803, "relation_type": "友人", "context": "静马和玉青是朋友关系。" },
+    { "id": 18, "source_character_id": 901, "target_character_id": 902, "relation_type": "战友", "context": "同为花骑士，共同为了守护世界和平而战（玩家可自由想象）。" }
+  ]
+}
