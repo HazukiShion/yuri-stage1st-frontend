@@ -1,5 +1,5 @@
 // src/api/index.ts
-import type { Work, Character, Relationship } from '@/types/models';
+import type {Character, Relationship, Work} from '@/types/models';
 
 const API_BASE_URL = '/api';
 
@@ -55,9 +55,9 @@ export async function getWorksByIds(workIds: number[]): Promise<Work[]> {
             return [];
         }
 
-        const queryParams = workIds.map(id => `id=${id}`).join('&');
-        const response = await fetch(`${API_BASE_URL}/work?${queryParams}`);
-        return handleResponse<Work[]>(response);
+        // 使用 Promise.all 并行获取每个作品
+        const workPromises = workIds.map(id => getWorkById(id));
+        return await Promise.all(workPromises);
     } catch (error) {
         console.error('Error fetching related works:', error);
         throw error;
@@ -105,10 +105,14 @@ export async function getCharactersByIds(ids: number[]): Promise<Character[]> {
             return [];
         }
 
-        // 构建查询参数，json-server支持通过多个id参数查询
-        const queryParams = ids.map(id => `id=${id}`).join('&');
-        const response = await fetch(`${API_BASE_URL}/character?${queryParams}`);
-        return handleResponse<Character[]>(response);
+        // 方法1：使用 Promise.all 并行获取每个角色
+        const characterPromises = ids.map(id => getCharacterById(id));
+        return await Promise.all(characterPromises);
+
+        // 方法2（备选）：如果 json-server 支持 id_like 参数
+        // const queryParams = `id_like=${ids.join('|')}`;
+        // const response = await fetch(`${API_BASE_URL}/character?${queryParams}`);
+        // return handleResponse<Character[]>(response);
     } catch (error) {
         console.error('Error fetching characters:', error);
         throw error;
